@@ -1,9 +1,22 @@
 public class Driver{
  public static void main(String[]args){
-   System.out.println("Expected 0, my function: "+StringMethods.myCompareTo("Hello","Hello")); 
-   System.out.println("Expected a negative number, my function: "+StringMethods.myCompareTo("A","B")); 
-   System.out.println("Expected -1, my function: "+Stringmethods.myIndexOf("Hello","he"));  
-   System.out.println("Expected 1, my function: "+Stringmethods.myIndexOf("Hello","el")); 
+  String a;
+  String b;
+  String whole;
+  String part;
+  
+  //Can you think of why the test cases use variables instead of literal strings?
+  
+  //Single test case myCompareTo:
+  a="cat";
+  b="dog";
+  System.out.println("Expected "+ a.CompareTo(b) +" vs my function: "+StringMethods.myCompareTo(a,b)); 
+   
+  //Single test case myIndexOf:
+  whole = "Hello";
+  part = "He";
+  System.out.println("Expected "+ whole.indexOf(part) +" vs my function: "+Stringmethods.myIndexOf(whole,part));  
+   
    
  }
 }
