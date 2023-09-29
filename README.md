@@ -13,6 +13,7 @@ Negative numbers should work for parseInt() but you should worry about that last
 
 ## Commits
 For this lab be sure to commit regularly (any time you make meaninful progress or improve your methods)
+
 Make sure you commit with meaningful messages.
 
 ## Directions
