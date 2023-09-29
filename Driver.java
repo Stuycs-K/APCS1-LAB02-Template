@@ -17,6 +17,12 @@ public class Driver{
   part = "He";
   System.out.println("Expected "+ whole.indexOf(part) +" vs my function: "+StringMethods.myIndexOf(whole,part));  
    
-   
+  
+  String number;
+  //Single test case parseInt:
+  // number = "152";
+  // int actual = Integer.parseInt(number);
+  // int guess  = StringMethods.parseInt(number);
+  // System.out.println("Expected "+ actual +" vs my function: "+ guess+" "+(actual==guess));
  }
 }
