@@ -15,7 +15,7 @@ public class Driver{
   //Single test case myIndexOf:
   whole = "Hello";
   part = "He";
-  System.out.println("Expected "+ whole.indexOf(part) +" vs my function: "+Stringmethods.myIndexOf(whole,part));  
+  System.out.println("Expected "+ whole.indexOf(part) +" vs my function: "+StringMethods.myIndexOf(whole,part));  
    
    
  }
