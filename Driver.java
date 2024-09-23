@@ -1,11 +1,13 @@
 public class Driver{
  public static void main(String[]args){
+  //Variables of the test cases are pre-declared.
+  //This allows you to copy/paste the entire test case and just change the variables.
   String a;
   String b;
   String whole;
   String part;
   String number;
-  //Can you think of why the test cases use variables instead of literal strings?
+  
   
   //Single test case myCompareTo:
   a="cat";
