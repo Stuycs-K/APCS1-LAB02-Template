@@ -10,13 +10,13 @@ public class Driver{
   //Single test case myCompareTo:
   a="cat";
   b="dog";
-  System.out.println("Expected "+ a.CompareTo(b) +" vs my function: "+StringMethods.myCompareTo(a,b)); 
+  System.out.println("Expected "+ a.compareTo(b) +" vs my function: "+StringMethods.myCompareTo(a,b)); 
 
   
   //Single test case myIndexOf:
   whole = "Hello";
   part = "He";
-  System.out.println("Expected "+ whole.indexOf(part) +" vs my function: "+ "REPLACE THIS WITH YOUR myIndexOf CALL";  
+  System.out.println("Expected "+ whole.indexOf(part) +" vs my function: "+ "REPLACE THIS WITH YOUR myIndexOf CALL" );  
     
   //Single test case parseInt:
   number = "152";
