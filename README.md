@@ -5,7 +5,7 @@
 
 2. myCompareTo()
 
-3. int parseInt(String) : This method will take a string like "123" and return the value 123. You may assume that the String is formatted like a valid integer. The string contains only digits, optionally starting with a '-', and the range of values that work is between -(2^31) and 2^31 - 1) inclusive.
+3. int parseInt(String) : This method will take a string like "123" and return the value 123. You may assume that the String is formatted like a valid integer. The string contains only digits, optionally starting with a '-', and the range of values that work is between -(2^31) + 1 and 2^31 - 1) inclusive. The min value of an int is excluded since you cannot make the positive version and negate it. I will not test this value, but there is an easy workaround for it.
 
 Negative numbers should work for parseInt() but you should worry about that last after you get non negative numbers working.
 
