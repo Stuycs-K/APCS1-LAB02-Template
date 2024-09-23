@@ -21,7 +21,7 @@ public class Driver{
   //Single test case parseInt:
   number = "152";
   int actual = Integer.parseInt(number);
-  int guess  = 0;//replace with your parse function
+  int guess  = -9999999;//replace with your parse function
   System.out.println("Expected "+ actual +" vs my function: "+ guess+" "+(actual==guess));
  }
 }
