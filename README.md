@@ -1,4 +1,7 @@
-# K-APCS1-LAB02
+# APCS1-LAB02
+
+You must write three methods, and write a main that tests them.
+
 ## Methods to write:
 
 1. myIndexOf()
