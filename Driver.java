@@ -16,12 +16,12 @@ public class Driver{
   //Single test case myIndexOf:
   whole = "Hello";
   part = "He";
-  System.out.println("Expected "+ whole.indexOf(part) +" vs my function: "+StringMethods.myIndexOf(whole,part));  
+  System.out.println("Expected "+ whole.indexOf(part) +" vs my function: "+ "REPLACE THIS WITH YOUR myIndexOf CALL";  
     
   //Single test case parseInt:
   number = "152";
   int actual = Integer.parseInt(number);
-  int guess  = StringMethods.parseInt(number);
+  int guess  = 0;//replace with your parse function
   System.out.println("Expected "+ actual +" vs my function: "+ guess+" "+(actual==guess));
  }
 }
