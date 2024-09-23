@@ -1,5 +1,4 @@
-# K-APCS1-2022-LAB02-Template
-
+# K-APCS1-LAB02
 ## Methods to write:
 
 1. myIndexOf()
