@@ -1,6 +1,6 @@
 # APCS1-LAB02
 
-You must write three methods, and write a main that tests them.
+You must write three methods, and write many tests for each. Do not forget to test empty strings where appropriate.
 
 ## Methods to write:
 
