@@ -11,7 +11,7 @@ Negative numbers should work for parseInt() but you should worry about that last
 
 
 ## Commits
-For this lab be sure to commit regularly (any time you make meaninful progress or improve your methods)
+For this lab be sure to commit regularly (any time you make meaninful progress or improve your methods) This means multiple (more than 2) commits in class, and multiple (more than 2) commits at home each day until you are done.
 
 Make sure you commit with meaningful messages.
 
