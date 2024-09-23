@@ -12,7 +12,7 @@ public class Driver{
   //Single test case myCompareTo:
   a="cat";
   b="dog";
-  System.out.println("Expected "+ a.compareTo(b) +" vs my function: "+StringMethods.myCompareTo(a,b)); 
+  System.out.println("Expected same sign: "+ a.compareTo(b) +" vs my function: "+StringMethods.myCompareTo(a,b)); 
 
   
   //Single test case myIndexOf:
