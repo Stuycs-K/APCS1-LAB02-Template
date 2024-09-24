@@ -2,7 +2,7 @@ public class StringMethods{
 
   //return the index of s that contains the first occurence of target, 
   //or -1 if it is not present. 
-  //precondition s and t both have length > 0
+  //precondition s and target both have length > 0
   //Do not use indexOf().
   public static int myIndexOf(String s, String target){
     return 0;
